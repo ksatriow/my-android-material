@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coroutines Scope Dispatch Builder</string>
+    <string name="click_here">Click Here</string>
+    <string name="download_data">Download Data</string>
+</resources>
